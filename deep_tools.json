@@ -1,0 +1,282 @@
+[
+    {
+        "name": "top-packages",
+        "description": "A curated collection of widely used npm packages for Node.js development. Built in 2024–2025, it serves as a reference guide and starter template featuring 98 essential packages across web frameworks, testing tools, security utilities, and validation libraries, providing developers with a concise overview of battle-tested, compatible packages.",
+        "link": "https://github.com/orassayag/top-packages",
+        "stars": 2,
+        "language": "JavaScript",
+        "hidden_score": 493,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Lexicon-AI-Translator",
+        "description": "Lexicon AI Translator is a free, open-source tool for Skyrim mod localization. It supports PEX, ESM, ESP, and MCM files, with structured preprocessing and rule-based protection to improve batch translation accuracy. Optional local or online translation engines and custom dictionaries provide a flexible and controlled workflow.",
+        "link": "https://github.com/YD525/Lexicon-AI-Translator",
+        "stars": 6,
+        "language": "C#",
+        "hidden_score": 472,
+        "category": "AI",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "mapboxgl-layer-manager",
+        "description": "The Layer Manager for Mapbox GL is a powerful utility that simplifies the management of layers and sources in the Mapbox GL environment. This package allows easy layer reordering, visibility toggling, opacity adjustments, and other modifications, making it an essential tool for developers working with interactive maps.",
+        "link": "https://github.com/daturon/mapboxgl-layer-manager",
+        "stars": 15,
+        "language": "TypeScript",
+        "hidden_score": 455,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Tron-WithDraw-Incoming-Balance-Cryptocurrencies-Funds",
+        "description": "Tron-based auto-withdraw bot that monitors incoming balances and automates fund transfers. Designed for efficient cryptocurrency management, ensuring instant handling of deposits. Ideal for platforms needing fast, secure, and hands-free fund operations. auto-withdraw-script, auto-withdraw-bot",
+        "link": "https://github.com/AshopSvgTop/Tron-WithDraw-Incoming-Balance-Cryptocurrencies-Funds",
+        "stars": 2,
+        "language": "C#",
+        "hidden_score": 441,
+        "category": "Automation",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Networking-Toolbox",
+        "description": "💥 A growing collection of 100+ offline-first networking tools & utilities for developers who care about reliability beyond the internet. Built for disconnected systems, edge networks, and resilient infrastructure — mesh, peer-to-peer, LAN, and practical local-first tooling. LAN > Cloud. 🧠📡💥🛠️",
+        "link": "https://github.com/Bd-Mutant7/Networking-Toolbox",
+        "stars": 2,
+        "language": "Svelte",
+        "hidden_score": 441,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "shark",
+        "description": "Shark Tool is the ultimate all-in-one file and system administration utility. Built for admins, developers, and power users, Shark unifies essential file management, automation, and analysis tasks into a single, powerful command-line interface—eliminating the need for multiple separate tools.",
+        "link": "https://github.com/fossillogic/shark",
+        "stars": 2,
+        "language": "C",
+        "hidden_score": 441,
+        "category": "Automation",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Networking-Toolbox",
+        "description": "💥 A growing collection of 100+ offline-first networking tools & utilities for developers who care about reliability beyond the internet. Built for disconnected systems, edge networks, and resilient infrastructure — mesh, peer-to-peer, LAN, and practical local-first tooling. LAN > Cloud. 🧠📡💥🛠️",
+        "link": "https://github.com/mwakidenis/Networking-Toolbox",
+        "stars": 7,
+        "language": "Svelte",
+        "hidden_score": 436,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "squid",
+        "description": "Squid Tool is the ultimate all-in-one system administration and monitoring utility for admins, developers, and system engineers. It consolidates essential process management, system diagnostics, and real-time monitoring into a single command-line interface—eliminating tool fragmentation.",
+        "link": "https://github.com/fossillogic/squid",
+        "stars": 2,
+        "language": "C",
+        "hidden_score": 436,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "CryptoPriceList",
+        "description": "This repository features a Python script that automatically fetches and updates the latest cryptocurrency prices for Bitcoin, Ethereum, and Litecoin every five minutes. Prices are displayed in the README, ensuring real-time updates using the CoinGecko API and GitHub Actions for automation.",
+        "link": "https://github.com/nno-official/CryptoPriceList",
+        "stars": 6,
+        "language": "Python",
+        "hidden_score": 434,
+        "category": "Automation",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "fdroid",
+        "description": "Curated collection of high-quality Android applications. Features official binaries from trusted developers, including privacy tools, communication apps, open-source alternatives, and useful utilities. Covers both FOSS and proprietary applications for enhanced mobile experience.",
+        "link": "https://github.com/Xpos587/fdroid",
+        "stars": 4,
+        "language": "Go",
+        "hidden_score": 425,
+        "category": "Automation",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "nornir-python-scripts",
+        "description": "This project contains a collection of Python scripts and Nornir runbooks for network automation. The scripts cover a wide range of tasks, including LLDP mapping, OSPF error detection, banner filtering, CDP mapping, IP route checking, and more.",
+        "link": "https://github.com/yomalamoula/nornir-python-scripts",
+        "stars": 3,
+        "language": "Python",
+        "hidden_score": 390,
+        "category": "AI",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "ClimaPy",
+        "description": "ClimaPy is a Django-based command-line weather application that provides real-time weather information for cities worldwide. Originally developed as a learning project, it has evolved into a practical tool for developers and weather enthusiasts.",
+        "link": "https://github.com/Bd-Mutant7/ClimaPy",
+        "stars": 7,
+        "language": "Python",
+        "hidden_score": 388,
+        "category": "Developer",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Caveman-Claude",
+        "description": "Caveman Claude is a high-performance claude optimization layer for the Claude ecosystem. It is designed for developers and power users who need to maximize context window utility and reduce inference costs without sacrificing logic or task execution.",
+        "link": "https://github.com/om-patel5/Caveman-Claude",
+        "stars": 20,
+        "language": "Solidity",
+        "hidden_score": 380,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "omega-toolkit",
+        "description": "All-in-one web utilities for developers, students, and everyday users — convert files (CSV, Excel, JSON), images (JPG, PNG, ICO), generate UUIDs, hashes, QR codes, and manage text & code easily",
+        "link": "https://github.com/Omega-Dimension/omega-toolkit",
+        "stars": 4,
+        "language": "TypeScript",
+        "hidden_score": 339,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "ubuntu-setup-with-vnc-and-gpu",
+        "description": "Scripts and instructions for setting up Ubuntu derivatives on AMD64 with tools for development, productivity, graphics, remote control, multimedia, communication, and more.",
+        "link": "https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu",
+        "stars": 6,
+        "language": "Shell",
+        "hidden_score": 316,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "mddb",
+        "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built for simplicity, portability and low overhead.",
+        "link": "https://github.com/tradik/mddb",
+        "stars": 3,
+        "language": "Go",
+        "hidden_score": 310,
+        "category": "Automation",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Git-Secrets",
+        "description": "A Python CLI tool that scans all repositories owned by a GitHub user/org for accidentally committed secrets (API keys, tokens, passwords, private keys, etc.).",
+        "link": "https://github.com/GP-commits/Git-Secrets",
+        "stars": 2,
+        "language": "Python",
+        "hidden_score": 306,
+        "category": "Developer",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "Flow",
+        "description": "A lightweight Windows teleprompter built with Tauri, featuring a minimal always-on-top reading UI, tray controls, script editing, and Groq-powered prompt generation.",
+        "link": "https://github.com/LumoRez07/Flow",
+        "stars": 16,
+        "language": "JavaScript",
+        "hidden_score": 299,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "bash-scripts",
+        "description": "🔧 Automate tasks with this collection of simple Bash scripts for Unix/Linux systems, designed to streamline your workflow and enhance productivity.",
+        "link": "https://github.com/moderate-inositol224/bash-scripts",
+        "stars": 2,
+        "language": "Shell",
+        "hidden_score": 295,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "memoir",
+        "description": "Persistent memory for AI coding tools. Sync Claude, Cursor, Gemini, Copilot, Windsurf + 6 more across machines via MCP. E2E encrypted. Open source.",
+        "link": "https://github.com/camgitt/memoir",
+        "stars": 6,
+        "language": "JavaScript",
+        "hidden_score": 291,
+        "category": "AI",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "termux-app-store",
+        "description": "Termux package manager with TUI & CLI. Install, upgrade, and manage Termux awesome tools from source — offline, private, SHA256-verified. The community-driven Termux App Store.",
+        "link": "https://github.com/djunekz/termux-app-store",
+        "stars": 37,
+        "language": "Python",
+        "hidden_score": 289,
+        "category": "Developer",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "github-unfollow-nonfollowers",
+        "description": "A Python script that uses the GitHub API to automatically unfollow users who don't follow you back, with preview mode and rate limit handling.",
+        "link": "https://github.com/Bd-Mutant7/github-unfollow-nonfollowers",
+        "stars": 11,
+        "language": "Python",
+        "hidden_score": 281,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "GAS_Asset_Tracker",
+        "description": "Automated Asset Tracker using Google Apps Script & CI/CD pipelines. Implements Bitcoin-standard accounting visualization.",
+        "link": "https://github.com/Larry-kang/GAS_Asset_Tracker",
+        "stars": 2,
+        "language": "JavaScript",
+        "hidden_score": 269,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "hacker-scripts",
+        "description": "🚀 Automate everyday tasks with a collection of unique scripts designed to enhance productivity and streamline your workflow.",
+        "link": "https://github.com/watthatdo/hacker-scripts",
+        "stars": 5,
+        "language": "JavaScript",
+        "hidden_score": 269,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "acli",
+        "description": "ACLI — Agent-friendly CLI specification and SDKs. Build CLI tools that AI agents can discover and use autonomously.",
+        "link": "https://github.com/alpibrusl/acli",
+        "stars": 2,
+        "language": "Python",
+        "hidden_score": 263,
+        "category": "AI",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "etl",
+        "description": "Convenience tooling to perform database interactions from CI, bash scripts and automation processes.",
+        "link": "https://github.com/titpetric/etl",
+        "stars": 20,
+        "language": "Go",
+        "hidden_score": 230,
+        "category": "Automation",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "myhhub-stock-analysis-suite-toolkit",
+        "description": "Dot Ledger is a Free and Open Source personal finance management tool.",
+        "link": "https://github.com/Vulthen/myhhub-stock-analysis-suite-toolkit",
+        "stars": 4,
+        "language": "C#",
+        "hidden_score": 216,
+        "category": "General",
+        "added_on": "2026-04-06"
+    },
+    {
+        "name": "quant-trading-toolkit",
+        "description": "Open-source personal finance tracking web application powered by ChatGPT.",
+        "link": "https://github.com/Krexind/quant-trading-toolkit",
+        "stars": 10,
+        "language": "C#",
+        "hidden_score": 213,
+        "category": "General",
+        "added_on": "2026-04-06"
+    }
+]
